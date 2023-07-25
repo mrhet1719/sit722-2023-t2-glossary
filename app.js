@@ -52,6 +52,11 @@ References: '[8] SolarWinds, "Continuous Monitoring," SolarWinds. [Online]. Avai
 Definition: 'Agile is an iterative and incremental approach to software development that emphasizes collaboration, flexibility, and customer feedback. It promotes adaptive planning and continuous improvement throughout the development process.',
 References: '[9] Agile Alliance, "Agile," Agile Alliance. [Online]. Available: https://www.agilealliance.org/agile101/.https://www.agilealliance.org/agile101/'
 },
+{
+  Term: 'Continuous Delivery (CD)',
+Definition: 'Continuous Delivery is a software development practice where code changes are automatically built, tested, and prepared for release to production. It extends Continuous Integration by automating the entire release process, including deployment to production environments. Continuous Delivery ensures that software can be deployed to production at any time, providing a reliable and rapid way to deliver new features and updates.',
+References: '[10] ThoughtWorks, "Continuous Delivery," ThoughtWorks. [Online]. Available: https://www.thoughtworks.com/continuous-delivery.'
+},
 
 ];
 
