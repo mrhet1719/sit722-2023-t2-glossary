@@ -24,3 +24,28 @@
     </table>
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SIT722 DevOps Glossary</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <h1>SIT722 DevOps Glossary</h1>
+    <h4>Welcome To My website showing a collection of DevOps Terms and Their Brief Decription</h4>
+    <table>
+        <tr>
+            <th>Term</th>
+            <th>Definition</th>
+            <th>References</th>
+        </tr>
+        <% glossary.forEach(term => { %>
+            <tr>
+                <td><%= term.Term %></td>
+                <td><%= term.Definition %></td>
+                <td><%= term.References %></td>
+            </tr>
+        <% }); %>
+    </table>
+</body>
+</html>
