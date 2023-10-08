@@ -57,6 +57,16 @@ References: '[9] Agile Alliance, "Agile," Agile Alliance. [Online]. Available: h
 Definition: 'Continuous Delivery is a software development practice where code changes are automatically built, tested, and prepared for release to production. It extends Continuous Integration by automating the entire release process, including deployment to production environments. Continuous Delivery ensures that software can be deployed to production at any time, providing a reliable and rapid way to deliver new features and updates.',
 References: '[10] ThoughtWorks, "Continuous Delivery," ThoughtWorks. [Online]. Available: https://www.thoughtworks.com/continuous-delivery.'
 },
+{
+  Term: 'CI/CD Pipeline',
+Definition: 'A CI/CD (Continuous Integration/Continuous Deployment) pipeline is a set of automated processes and tools that facilitate the building, testing, and deployment of software changes. It streamlines the delivery of new features and updates into production environments.',
+References: '[11] GitLab, "What is a CI/CD pipeline?," GitLab. [Online]. Available: https://docs.gitlab.com/ee/ci/pipelines'
+},
+{
+  Term: 'DevSecOps',
+Definition: 'DevSecOps is an extension of DevOps that integrates security practices into the software development lifecycle. It aims to identify and remediate security vulnerabilities early in the development process, enhancing the overall security of applications.',
+References: '[12]OWASP, "What is DevSecOps?," OWASP. [Online]. Available: https://owasp.org/www-project-devsecops-studio/.'
+},
 
 ];
 
